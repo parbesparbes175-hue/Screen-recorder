@@ -1,0 +1,6 @@
+{
+  "name": "GameCapture Lite",
+  "description": "Ultra-lightweight screen recorder optimized for PUBG Mobile and gaming with hardware-accelerated encoding, low CPU/RAM overhead, and internal audio capture.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
